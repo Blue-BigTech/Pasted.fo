@@ -1,0 +1,40 @@
+.form-control {
+    background-color: #1A0733 !important;
+    border-color: #6C31C6 !important;
+    color: #fff !important;
+}
+
+.form-title {
+    color: #fff !important;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.form-card {
+    display: flex;
+    margin-top: 100px;
+}
+
+hr {
+    border-color: #6C31C6 !important;
+    opacity: 0.6 !important;
+}
+
+label {
+    color:#fff !important;
+    padding: 10px 0px 10px 0px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500 !important;
+    font-size: 20px;
+}
+
+.form-control:focus {
+    box-shadow: 0px 0px 0px #fff !important;
+}
+
+button {
+    border-width: 0px !important;
+    border-color: #6C31C6 !important;
+    margin-left: 0 !important;
+    margin-top: 20px !important;
+}

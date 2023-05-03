@@ -1,0 +1,268 @@
+@media screen and (max-width:1400px) {
+
+	.pastelist,
+	.wrapper form textarea,
+	.CodeMirror {
+		width: 750px
+	}
+}
+
+@media screen and (max-width:1300px) {
+
+	.pastelist,
+	.wrapper form textarea,
+	.CodeMirror {
+		width: 650px
+	}
+
+	.paste-info,
+	hr {
+		min-width: 300px
+	}
+
+	.wrapper form .form-elements {
+		width: 300px
+	}
+}
+
+@media screen and (max-width:1150px) {
+
+	.wrapper form textarea,
+	.CodeMirror {
+		width: 600px
+	}
+
+	.paste-info,
+	hr {
+		min-width: 250px
+	}
+
+	.wrapper form .form-elements {
+		width: 250px
+	}
+
+	.pastelist,
+	.banners {
+		width: 900px
+	}
+}
+
+@media screen and (max-width:1000px) {
+	.wrapper form {
+		flex-direction: column;
+		align-items: center
+	}
+
+	.CodeMirror {
+		margin: 0 0 30px
+	}
+
+	.wrapper form .form-elements {
+		margin: 0 0 30px;
+		flex-direction: column;
+		height: fit-content
+	}
+
+	.wrapper form .form-elements .form-element,
+	.wrapper form .form-elements .pbutton {
+		width: 350px;
+		flex: none
+	}
+
+	.ratings,
+	.paste-info {
+		width: 400px;
+		flex: none
+	}
+
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 800px
+	}
+}
+
+@media screen and (max-width:900px) {
+
+	.ratings,
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 700px
+	}
+}
+
+@media screen and (max-width:800px) {
+
+	.ratings,
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 600px
+	}
+}
+
+@media screen and (max-width:700px) {
+	.header {
+		padding: 9px 0
+	}
+
+	.pastelist th,
+	.pastelist td {
+		max-width: 170px
+	}
+
+	.pastelist .td-time {
+		max-width: 120px
+	}
+
+	.td-creator {
+		display: none
+	}
+
+	.ratings,
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 500px
+	}
+}
+
+@media screen and (max-width:600px) {
+
+	.ratings,
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 400px
+	}
+
+	.banner img {
+		width: 400px;
+		height: 100px
+	}
+}
+
+@media screen and (max-width:500px) {
+	.header {
+		height: fit-content
+	}
+
+	.ratings,
+	.wrapper form .form-elements .form-element,
+	.wrapper form .form-elements .pbutton {
+		width: 300px;
+		flex: none
+	}
+
+	.paste-info,
+	hr {
+		min-width: 300px;
+		max-width: 300px
+	}
+
+	.wrapper form textarea,
+	.CodeMirror {
+		width: 330px;
+		height: 500px
+	}
+
+	.banner img {
+		width: 320px;
+		height: 80px
+	}
+
+	.pastelist,
+	.banners,
+	.wrapper form .form-elements {
+		width: 330px
+	}
+}
+
+@media screen and (max-width:400px) {
+	.pastelist .td-time {
+		display: none
+	}
+
+	.ratings,
+	.wrapper form .form-elements .form-element,
+	.wrapper form .form-elements .pbutton {
+		width: 240px;
+		flex: none
+	}
+
+	.paste-info,
+	hr {
+		min-width: 240px;
+		max-width: 240px
+	}
+
+	.banner img {
+		width: 240px;
+		height: 60px
+	}
+
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 270px
+	}
+}
+
+@media screen and (max-width:320px) {
+
+	.pastelist th,
+	.pastelist td {
+		max-width: 120px
+	}
+
+	.ratings,
+	.wrapper form .form-elements .form-element,
+	.wrapper form .form-elements .util-button,
+	.wrapper form .form-elements .pbutton {
+		width: 200px;
+		padding: 5px 0;
+		flex: none
+	}
+
+	.paste-info,
+	hr {
+		min-width: 200px;
+		max-width: 200px
+	}
+
+	.banner img {
+		width: 200px;
+		height: 50px
+	}
+
+	.pastelist,
+	.banners,
+	.wrapper form textarea,
+	.CodeMirror,
+	.wrapper form .form-elements {
+		width: 220px
+	}
+
+	.footer {
+		font-size: 15px
+	}
+}
+
+@media screen and (max-height:870px) {
+	.footer {
+		margin: 25px 0 0
+	}
+}

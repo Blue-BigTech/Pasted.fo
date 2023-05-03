@@ -1,0 +1,39 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^pasted\.fo$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pasted\.fo$
+RewriteRule ^login$ "http\:\/\/pasted\.fo\/login\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^dashboard$ "http\:\/\/pasted\.fo\/dashboard\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^register$ "http\:\/\/pasted\.fo\/register\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^logout$ "http\:\/\/pasted\.fo\/logout\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^banned$ "http\:\/\/pasted\.fo\/banned\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^delete_account$ "http\:\/\/pasted\.fo\/delete_account\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^deletepaste$ "http\:\/\/pasted\.fo\/deletepaste\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^settings$ "http\:\/\/pasted\.fo\/settings\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^setsettings$ "http\:\/\/pasted\.fo\/setsettings\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^redir$ "http\:\/\/pasted\.fo\/redir\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^raw$ "http\:\/\/pasted\.fo\/raw\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^rate$ "http\:\/\/pasted\.fo\/rate\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^mypastes$ "http\:\/\/pasted\.fo\/mypastes\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^top$ "http\:\/\/pasted\.fo\/top\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^recent$ "http\:\/\/pasted\.fo\/recent\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^admin\/reguserlist$ "http\:\/\/pasted\.fo\/admin\/reguserlist\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^create$ "http\:\/\/pasted\.fo\/create\.php" [R=301,L]

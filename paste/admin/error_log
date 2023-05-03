@@ -1,0 +1,58 @@
+[06-Sep-2022 21:49:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[06-Sep-2022 21:51:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[06-Sep-2022 22:00:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[06-Sep-2022 22:36:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:11 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:11 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:20 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:20 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:27 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:27 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:27 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:27 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:28 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:28:28 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:28:29 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:29 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:35 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:35 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:41 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:41 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:41 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:41 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:42 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:28:42 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:28:42 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:42 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:57 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:57 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:28:57 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:57 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 58
+[08-Sep-2022 07:28:59 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:28:59 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/dashboard.php on line 7
+[08-Sep-2022 07:29:01 America/New_York] PHP Warning:  session_start(): open(/opt/alt/php74/var/lib/php/session/sess_950baeda94b0a6289508a35d0fdcfbe0, O_RDWR) failed: Disk quota exceeded (122) in /home/heavencasino/paste.army/admin/login.php on line 3
+[08-Sep-2022 07:29:01 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php74/var/lib/php/session) in /home/heavencasino/paste.army/admin/login.php on line 3
+[11-Sep-2022 17:27:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[12-Sep-2022 07:27:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[12-Sep-2022 09:15:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[12-Sep-2022 11:17:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[12-Sep-2022 11:53:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[14-Sep-2022 08:54:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[14-Sep-2022 10:02:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/heavencasino/paste.army/admin/login.php on line 58
+[28-Apr-2023 03:26:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 03:27:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 03:27:41 UTC] PHP Notice:  Undefined index: id in /home/pastedfo/public_html/admin/edituser.php on line 70
+[28-Apr-2023 03:43:31 UTC] PHP Notice:  Undefined index: id in /home/pastedfo/public_html/admin/edituser.php on line 70
+[28-Apr-2023 03:43:37 UTC] PHP Notice:  Undefined index: id in /home/pastedfo/public_html/admin/edituser.php on line 70
+[28-Apr-2023 03:43:48 UTC] PHP Notice:  Undefined index: id in /home/pastedfo/public_html/admin/edituser.php on line 70
+[28-Apr-2023 03:43:51 UTC] PHP Notice:  Undefined index: id in /home/pastedfo/public_html/admin/edituser.php on line 70
+[28-Apr-2023 03:47:12 UTC] PHP Warning:  A non-numeric value encountered in /home/pastedfo/public_html/admin/createad.php on line 25
+[28-Apr-2023 15:06:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 15:08:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 15:36:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 17:01:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 18:31:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 20:45:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[28-Apr-2023 20:51:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[29-Apr-2023 11:53:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
+[29-Apr-2023 13:41:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/pastedfo/public_html/admin/login.php on line 58
